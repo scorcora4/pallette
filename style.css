@@ -125,12 +125,14 @@ body{
     border: none;
     border-radius: 20px;
     background-image: linear-gradient(to right, #a517ba, #5f1782);
+    margin-top: 20px;
 }
 
 /*---------------services---------------*/
 
 #services{
     padding: 80px 0;
+    background: #f8f9fa;
 }
 
 
@@ -182,7 +184,7 @@ body{
 
 /*--------about us section-----------*/
 #about-us{
-    background: #f8f9fa;
+    
     padding-bottom: 50px;
     padding-top: 50px;
 }
@@ -205,6 +207,7 @@ body{
 /*--------testimonials section-----------*/
 #testimonials{
     margin: 100px 0;
+    background: #f8f9fa;
 }
 
 .testimonials{
@@ -226,7 +229,6 @@ body{
 
 /*--------social-media section-----------*/
 #social-media{
-    background: #f8f9fa;
     padding: 100px 0;
 }
 
